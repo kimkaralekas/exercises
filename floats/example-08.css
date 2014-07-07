@@ -10,14 +10,32 @@
 	margin: 0 auto;
 }
 
-.header {}
+.header {
+	height: 50px;
+}
 
 
-.sidebar {}
+.sidebar {
+	float: left;
+	width: 328px;
+	height: 325px;
 
-.main-content {}
+}
 
-.sub-content {}
+.main-content {
+	float: left;
+	width: 328px;
+	height: 325px;
+}
+
+.sub-content {
+	float: right;
+	width: 328px;
+	height: 325px;
+}
 
 
-.footer {}
+.footer {
+	clear: both;
+
+}
