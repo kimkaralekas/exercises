@@ -6,22 +6,24 @@
 /* Example 06 */
 
 .container {
-	width: 1024px; /* what happens to the widget boxes when you change this width? */
+	width: 1024px; 
 	margin: 0 auto;
 }
 
 
-.main-content {}
-/* hint! what do you need to add here? */
+.main-content {
+	background-color: #81B2CA;
+	overflow: hidden;
+}
+
 
 .widget {
-	/* how do you make the widgets float next to each other? */
-	/* what happens when you change float left to float right? why? */
+	float: left;
 }
 
 
 .footer {
-	/* hint! */
+	clear: both;
 }
 
 
