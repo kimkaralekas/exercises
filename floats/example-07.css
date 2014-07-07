@@ -11,18 +11,39 @@
 }
 
 
-.header {}
+.header {
+}
 
-.logo {}
+.logo {
+	width: 25%;
+}
 
-.navigation {}
+.navigation {
+	width: 70%;
+	float: right;
+	display: inline;
+	margin-top: -55px;
+}
 
-.sidebar {}
+.sidebar {
+	width: 25%;
+}
 
-.main-content {}
+.main-content {
+	padding-bottom: 40px;
+	height: 160px;
+}
 
-.sub-content {}
+.sub-content {
+	width: 70%;
+	float: right;
+	display: inline;
+	margin-top: -57px;
+}
 
-.sub-content-2 {}
+.sub-content-2 {
+	width: 70%;
+	float: right;
+}
 
 .footer {}
