@@ -25,7 +25,6 @@ h2{
 .post {
 }
 
-
 .image {
 	display: inline-block;
 	height: 180px;
@@ -39,3 +38,6 @@ h2{
 		padding: 30px;
 }
 
+.clearfix {
+    display: inline-block;
+}
