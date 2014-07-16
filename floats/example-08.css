@@ -39,3 +39,7 @@
 	clear: both;
 
 }
+
+.clearfix {
+    display: inline-block;
+}

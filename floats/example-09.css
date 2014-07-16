@@ -48,4 +48,7 @@ body {
 	clear: both;
 }
 
+.clearfix {
+    display: inline-block;
+}
 /* what do you have to add to make the sidebar and content and footer not be the full width of the browser? */
