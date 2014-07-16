@@ -34,3 +34,7 @@
 .widget.fix {
 	background: #8F1B65;
 }
+
+.clearfix {
+    display: inline-block;
+}
