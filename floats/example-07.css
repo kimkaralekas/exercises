@@ -46,4 +46,10 @@
 	float: right;
 }
 
-.footer {}
+.footer {
+
+}
+
+.clearfix {
+    display: inline-block;
+}
