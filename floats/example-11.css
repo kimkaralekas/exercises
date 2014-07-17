@@ -1,5 +1,9 @@
-.header {
-	height: 75px;
+.header:after {
+    content: " ";
+    display: block;
+    clear: both;
+    visibility: hidden;
+    height: 0;
 }
 
 .logo {
@@ -12,6 +16,7 @@
 	float: right;
 	margin-right: 20px;
 	clear: both;
+	height: 5px;
 }
 
 h2{
@@ -38,6 +43,3 @@ h2{
 		padding: 30px;
 }
 
-.clearfix {
-    display: inline-block;
-}
